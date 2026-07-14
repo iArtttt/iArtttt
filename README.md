@@ -6,7 +6,9 @@ An aspiring **C# / .NET Software Engineer** currently polishing my engineering s
 
 ### 🛠️ Tech Stack & Tools
 
-![C#](https://shields.io) ![SQL](https://shields.io) ![.NET](https://shields.io) ![EF Core](https://shields.io) ![Visual Studio](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+* 💻 **Languages:** C# | SQL (MS SQL Server)
+* 🚀 **Frameworks & ORM:** .NET 8.0+ | Entity Framework Core
+* 🛠️ **Tools & Environment:** Visual Studio 2022 | Git | GitHub
 
 ---
 
@@ -20,8 +22,9 @@ An aspiring **C# / .NET Software Engineer** currently polishing my engineering s
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://vercel.app" alt="Artur's GitHub Stats" height="170" />
-  <img src="https://vercel.app" alt="Top Languages" height="170" />
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Artur's GitHub Stats" height="170" />
+  </a>
 </p>
 
 ---
