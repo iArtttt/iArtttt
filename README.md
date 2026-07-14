@@ -27,5 +27,5 @@ An aspiring **C# / .NET Software Engineer** currently polishing my engineering s
 ---
 
 ### 📫 Connect with me
-* 💼 **LinkedIn:** [(https://www.linkedin.com/in/artur-svichkar-b32503295/)]
+* 💼 **LinkedIn:** *[https://www.linkedin.com/in/artur-svichkar-b32503295/]*
 * 📧 **Email:** *[volk19011@gmail.com]*
