@@ -5,13 +5,20 @@ An aspiring **C# / .NET Software Engineer** currently polishing my engineering s
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![C#](https://shields.io) ![SQL](https://shields.io) |
-| **Frameworks & ORM** | ![.NET](https://shields.io) ![EF Core](https://shields.io) |
-| **Tools & Environment** | ![Visual Studio](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) |
-
+<p align="left">
+  <!-- Languages -->
+  <img src="https://shields.io" alt="C#">
+  <img src="https://shields.io" alt="SQL">
+  
+  <!-- Frameworks -->
+  <img src="https://shields.io" alt=".NET">
+  <img src="https://shields.io" alt="EF Core">
+  
+  <!-- Tools -->
+  <img src="https://shields.io" alt="Visual Studio">
+  <img src="https://shields.io" alt="Git">
+  <img src="https://shields.io" alt="GitHub">
+</p>
 ---
 
 ### 📂 Featured Educational Projects
