@@ -14,8 +14,8 @@ An aspiring **C# / .NET Software Engineer** currently polishing my engineering s
 
 ### 📂 Featured Educational Projects
 
-* 📚 **[EF_Library](https://github.com)** — A decoupled library data management solution built with C# and Entity Framework Core (Code-First approach). Features layered architecture separating App logic, DAL, and Common entity models.
-* 🎓 **[Hillel_Education](https://github.com)** — My structured archive of coursework, algorithmic tasks, and homework assignments tracking my complete learning path.
+* 📚 **[EF_Library](https://github.com/iArtttt/EF_Library)** — A decoupled library data management solution built with C# and Entity Framework Core (Code-First approach). Features layered architecture separating App logic, DAL, and Common entity models.
+* 🎓 **[Hillel_Education](https://github.com/iArtttt/Hillel-education)** — My structured archive of coursework, algorithmic tasks, and homework assignments tracking my complete learning path.
 
 ---
 
